@@ -94,7 +94,7 @@ Passionate about backend development, clean code, and building powerful REST API
     <img src="https://skillicons.dev/icons?i=github" width="50"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:pythoncoder@gmail.com">
     <img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
   </a>
 </p>
