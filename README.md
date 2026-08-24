@@ -1,49 +1,70 @@
 <h1 align="center">Hi 👋, I'm Ahmadjon</h1>
 
 <h3 align="center">
-🚀 Python Backend Developer | Django & Django REST Framework Learner
+🚀 Python Backend Developer | Django & DRF Specialist
 </h3>
 
 <p align="center">
-Passionate about backend development, clean code, and building powerful REST APIs.
+Passionate backend engineer dedicated to building scalable REST APIs, microservices, and high-performance web applications.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadjonorifjonov2013-ux&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ahmadjonorifjonov2013-ux?label=Followers&style=flat&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Building_Awesome_Projects-brightgreen?style=flat" alt="Status" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🐍 Currently learning **Python**
-- 🚀 Learning **Django** & **Django REST Framework**
-- 🔥 Building REST APIs and backend projects
-- 🌱 Improving my coding skills every single day
-- 💡 Interested in Backend Development & Open Source
-- 🎯 Goal: Become a Professional Backend Developer
+- 🐍 Advanced **Python** practitioner focusing on clean code & OOP principles
+- 🚀 Building production-ready RESTful APIs with **Django** & **Django REST Framework**
+- 🤖 Developing interactive Telegram bots using **Aiogram 3**
+- 🧪 API Testing & Documentation using **Postman** and Swagger
+- 🔐 Hands-on experience with **JWT (JSON Web Tokens)** and Token Authentication
+- 🌐 Working with multi-language database models & localization
+- 🌱 Improving backend system architecture and database optimization daily
+- 💻 Linux (Ubuntu) environment power user
+- 💡 Interested in System Architecture, Microservices & Open Source
+- 🎯 Goal: Become a Senior Software Engineer / Backend Architect
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,sqlite,linux,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,postman,git,github,vscode,linux,bash,docker,nginx&perline=6" />
+</p>
+
+### 💻 Technologies & Frameworks
+- **Languages:** Python (OOP, Asyncio, Data Structures)
+- **Backend:** Django, Django REST Framework, Aiogram (Telegram Bot Framework)
+- **Databases:** SQLite, PostgreSQL
+- **API Development:** REST API, JWT Authentication, Serializers, ViewSets
+- **Tools & Systems:** Postman, Git, GitHub, Linux (Ubuntu), Bash Scripting
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadjonorifjonov2013-ux&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Technical Skills Breakdown
 
 ```text
-🐍 Python
-⚙️ Object-Oriented Programming (OOP)
-🌐 Django
-🚀 Django REST Framework
-🔗 REST API Development
-🌿 Git & GitHub
-🗄️ SQLite
-```
+🐍 Python Core         : OOP, Generators, Decorators, Asyncio
+🌐 Web Development     : Django, DRF, Middleware, Signals, ORM
+🚀 API Architecture    : RESTful API, Serializers, ViewSets, Pagination
+🤖 Bot Development     : Aiogram 3, FSM States, Keyboards, Bot API
+🔐 Security            : JWT, Token Auth, Role-based Permissions
+🧪 Testing & Docs      : Postman Collections, Swagger / Redoc
+🌿 Version Control     : Git CLI, Branching, GitHub Workflows
+🗄️ Database Management : Schema Design, SQLite, PostgreSQL Basics
 
 ---
 
