@@ -82,7 +82,7 @@ Passionate about backend development, clean code, and building powerful REST API
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/ahmadjon_backent" target="_blank">
+  <a href="https://instagram.com/ahmadjon.lsl" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
 
