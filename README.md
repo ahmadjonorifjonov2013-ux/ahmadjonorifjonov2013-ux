@@ -86,7 +86,7 @@ Passionate about backend development, clean code, and building powerful REST API
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
 
-  <a href="https://t.me/Ahmadjon_bakent" target="_blank">
+  <a href="https://t.me/ahmadjonxdev" target="_blank">
     <img src="https://img.icons8.com/color/96/telegram-app--v1.png" width="50"/>
   </a>
 
