@@ -1,139 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ahmadjon</h1>
-
-<h3 align="center">
-🚀 Python Backend Developer | Django & DRF Specialist
-</h3>
-
-<p align="center">
-Passionate backend engineer dedicated to building scalable REST APIs, microservices, and high-performance web applications.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadjonorifjonov2013-ux&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ahmadjonorifjonov2013-ux?label=Followers&style=flat&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Building_Awesome_Projects-brightgreen?style=flat" alt="Status" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-* 🐍 Advanced **Python** practitioner focusing on clean code & OOP principles
-* 🚀 Building production-ready RESTful APIs with **Django** & **Django REST Framework**
-* 🤖 Developing interactive Telegram bots using **Aiogram 3**
-* 🧪 API Testing & Documentation using **Postman** and Swagger
-* 🔐 Hands-on experience with **JWT (JSON Web Tokens)** and Token Authentication
-* 🌐 Working with multi-language database models & localization
-* 🌱 Improving backend system architecture and database optimization daily
-* 💻 Linux (Ubuntu) environment power user
-* 💡 Interested in System Architecture, Microservices & Open Source
-* 🎯 Goal: Become a Senior Software Engineer / Backend Architect
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,postman,git,github,vscode,linux,bash,docker,nginx&perline=6" alt="Tech Stack" />
-</p>
-
-### 💻 Technologies & Frameworks
-
-* **Languages:** Python (OOP, Asyncio, Data Structures)
-* **Backend:** Django, Django REST Framework, Aiogram (Telegram Bot Framework)
-* **Databases:** SQLite, PostgreSQL
-* **API Development:** REST API, JWT Authentication, Serializers, ViewSets
-* **Tools & Systems:** Postman, Git, GitHub, Linux (Ubuntu), Bash Scripting
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadjonorifjonov2013-ux&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📚 Technical Skills Breakdown
-
-```text
-🐍 Python Core         : OOP, Generators, Decorators, Asyncio
-🌐 Web Development     : Django, DRF, Middleware, Signals, ORM
-🚀 API Architecture    : RESTful API, Serializers, ViewSets, Pagination
-🤖 Bot Development     : Aiogram 3, FSM States, Keyboards, Bot API
-🔐 Security            : JWT, Token Auth, Role-based Permissions
-🧪 Testing & Docs      : Postman Collections, Swagger / Redoc
-🌿 Version Control     : Git CLI, Branching, GitHub Workflows
-🗄️ Database Management : Schema Design, SQLite, PostgreSQL Basics
-```
-
----
-
-## 🚀 Learning Roadmap
-
-* ✅ Python Basics
-* ✅ Object-Oriented Programming
-* ✅ Git & GitHub
-* 🔄 Django
-* 🔄 Django REST Framework
-* ⏳ PostgreSQL
-* ⏳ Docker
-* ⏳ Linux Server
-* ⏳ Deployment
-* 🎯 Backend Developer
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadjonorifjonov2013-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjonorifjonov2013-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmadjonorifjonov2013-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-
-  <a href="https://instagram.com/ahmadjon.lsl" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
-  </a>
-
-  <a href="https://t.me/ahmadjonxdev" target="_blank">
-    <img src="https://img.icons8.com/color/96/telegram-app--v1.png" width="50" alt="Telegram" />
-  </a>
-
-  <a href="https://github.com/ahmadjonorifjonov2013-ux" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
-  </a>
-
-  <a href="mailto:pythoncoder@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50" alt="Gmail" />
-  </a>
-
-</p>
-
----
-
-## 💭 Favorite Quote
-
-> **"First, solve the problem. Then, write the code."**
-> — John Johnson
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! If you like my projects, don't forget to leave a ⭐
-</p>
+[9/8/26 10:16 PM] Sirojiddin Abdusalimov ( James Walker ): <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:1a1a2e&height=200&section=header&text=Sirojiddin%20Abdusalimov&fontSize=40&fontColor=ffffff&desc=Backend%20/%20Telegram%20Bot%20Developer&descAlignY=75&descSize=18&animation=fadeIn" alt="Sirojiddin - Backend & Telegram Bot Developer" width="100%"> </p> <h1 align="center">Hi there, I'm Sirojiddin Abdusalimov 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Python+%2B+Django+Developer;Django+REST+Framework+Engineer;Telegram+Bot+Developer+(Aiogram+3.x);Always+learning%2C+always+building" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sirojiddin327&label=Profile%20views&color=2ca5e0&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Sirojiddin327?label=Followers&style=flat&color=2ca5e0" alt="followers" /> </p>
+👨‍💻 About Me
+I'm a backend developer specializing in the Python ecosystem and Telegram bot development. I enjoy finding logical and efficient solutions to problems, and I pay close attention to writing clean, readable code.
+🔭 Currently working on projects with Django and Aiogram 3.x
+🌱 Currently deepening my knowledge of Docker, CI/CD, and FastAPI
+💬 Ask me about Python, Django, DRF, Aiogram, PostgreSQL
+📫 Reach me at: sirojiddinabdusalimov62@gmail.com
+⚡️ Fun fact: I sketch out a solution on paper before writing any code
+🔹 Backend: Building web applications with Python and Django 🔹 API: Developing secure and efficient RESTful APIs with Django REST Framework 🔹 Telegram Bots: Building complex bots and webhook-based projects with Aiogram (3.x) 🔹 Databases: Designing database architecture with PostgreSQL, MySQL, and SQLite 🔹 Async & Background Tasks: Managing asynchronous tasks and queues with Celery and Redis 🔹 Tools & OS: Working with Git, GitHub, Postman, ngrok, and the Linux (Ubuntu) environment
+🚀 Technologies & Tools
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework" alt="DRF" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;&nbsp;
+[9/8/26 10:16 PM] Sirojiddin Abdusalimov ( James Walker ): <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/> </p>
+🛠 Core Areas of Knowledge
+Area
+Technologies & Concepts
+Python Core
+OOP, Data Structures, Algorithms, AsyncIO
+Web & API
+Django ORM, Class-Based Views, DRF Serializers, JWT, Auth (OTP), Webhooks
+Telegram Bots
+Aiogram 3.x, FSM, Keyboards, Callback Queries, Middleware
+Databases
+Relational DB Design, SQL, PostgreSQL, SQLite, MySQL
+Tools & Dev Environment
+Linux (Ubuntu), Git, GitHub, Postman, ngrok, Ventoy
+📊 My GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirojiddin327&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+🌐 Connect with me
+<p align="center"> <a href="https://t.me/Sirojiddin_Abdusalimov"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>&nbsp;&nbsp; <a href="https://github.com/Sirojiddin327"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>&nbsp;&nbsp; <a href="mailto:sirojiddinabdusalimov62@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> <b>🚀 Code • Learn • Build • Improve</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2CA5E0&height=100&section=footer" /> </p>
