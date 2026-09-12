@@ -107,41 +107,22 @@ I work with Linux VPS servers and technologies such as:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" title="Celery" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg" title="Postman" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="50" height="50">
-
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="50" height="50">&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" title="Celery" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg" title="Postman" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45">
 
 </p>
 
@@ -201,6 +182,7 @@ I work with Linux VPS servers and technologies such as:
 A modern hotel booking backend built with Django and REST API.
 
 **Technologies:**
+
 `Python` `Django` `DRF` `PostgreSQL`
 
 ---
@@ -210,6 +192,7 @@ A modern hotel booking backend built with Django and REST API.
 Telegram bots with database integration, FSM, keyboards and asynchronous processing.
 
 **Technologies:**
+
 `Python` `Aiogram 3.x` `PostgreSQL` `Redis`
 
 ---
@@ -219,6 +202,7 @@ Telegram bots with database integration, FSM, keyboards and asynchronous process
 Backend system for an online marketplace with authentication, products, orders and API endpoints.
 
 **Technologies:**
+
 `Django` `DRF` `PostgreSQL` `JWT`
 
 ---
